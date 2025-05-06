@@ -100,9 +100,9 @@ Bearer eyJhbGciOiJIUzI1NiIsInR5...
 
 ![Swagger UI](images/swagger-ui.png)
 
-
+<!--
 ---
 
-## 📝 لایسنس
+ ## 📝 لایسنس
 
-MIT © 2025 Navid
+MIT © 2025 Navid -->
