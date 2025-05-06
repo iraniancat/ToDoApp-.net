@@ -15,3 +15,4 @@ C:\Project\ToDoApp .net\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastr
 C:\Project\ToDoApp .net\TodoApp.Infrastructure\obj\Debug\net9.0\refint\TodoApp.Infrastructure.dll
 C:\Project\ToDoApp .net\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastructure.pdb
 C:\Project\ToDoApp .net\TodoApp.Infrastructure\obj\Debug\net9.0\ref\TodoApp.Infrastructure.dll
+C:\Project\ToDoApp .net\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastructure.sourcelink.json

@@ -98,3 +98,4 @@ C:\Project\ToDoApp .net\TodoApp.API\obj\Debug\net9.0\TodoApp.API.pdb
 C:\Project\ToDoApp .net\TodoApp.API\obj\Debug\net9.0\TodoApp.API.genruntimeconfig.cache
 C:\Project\ToDoApp .net\TodoApp.API\obj\Debug\net9.0\ref\TodoApp.API.dll
 C:\Project\ToDoApp .net\TodoApp.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Project\ToDoApp .net\TodoApp.API\obj\Debug\net9.0\TodoApp.API.sourcelink.json

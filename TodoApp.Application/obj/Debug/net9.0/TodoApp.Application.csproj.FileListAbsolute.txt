@@ -13,3 +13,4 @@ C:\Project\ToDoApp .net\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application
 C:\Project\ToDoApp .net\TodoApp.Application\obj\Debug\net9.0\refint\TodoApp.Application.dll
 C:\Project\ToDoApp .net\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.pdb
 C:\Project\ToDoApp .net\TodoApp.Application\obj\Debug\net9.0\ref\TodoApp.Application.dll
+C:\Project\ToDoApp .net\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.sourcelink.json
