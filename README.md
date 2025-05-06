@@ -85,7 +85,7 @@ Bearer eyJhbGciOiJIUzI1NiIsInR5...
 
 ---
 
-## 📌 TODOهای آینده
+## 📌 توسعه‌های آینده
 
 - اتصال به دیتابیس واقعی (SQL Server)
 - افزودن نقش‌ها (Role-based Authorization)
