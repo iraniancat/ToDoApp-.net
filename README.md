@@ -81,7 +81,7 @@ Bearer eyJhbGciOiJIUzI1NiIsInR5...
 کارشناس نرم‌افزار، علاقه‌مند به معماری تمیز، توسعه اپلیکیشن‌های کاربردی و یادگیری مداوم.
 
 
-[LinkedIn](https://www.linkedin.com/in/navid-beyranvand/) | [Email](navid.beyranvand@gmail.com) | [Telegram](https://t.me/iraniancat)
+[LinkedIn](https://www.linkedin.com/in/navid-beyranvand/) | [Email](mailto:navid.beyranvand@gmail.com) | [Telegram](https://t.me/iraniancat)
 
 ---
 
