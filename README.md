@@ -80,11 +80,8 @@ Bearer eyJhbGciOiJIUzI1NiIsInR5...
 **نوید بیرانوند**  
 کارشناس نرم‌افزار، علاقه‌مند به معماری تمیز، توسعه اپلیکیشن‌های کاربردی و یادگیری مداوم.
 
-<<<<<<< HEAD
+
 [LinkedIn](https://www.linkedin.com/in/navid-beyranvand/) | [Email](navid.beyranvand@gmail.com) | [Telegram](https://t.me/iraniancat)
-=======
-[LinkedIn](https://www.linkedin.com/in/navid-beyranvand/) | [Email](mailto:navid.beyranvand@gmail.com) | [Telegram](https://t.me/iraniancat)
->>>>>>> 1424eeea6557f4e2c317d2062355903b70596bb4
 
 ---
 
