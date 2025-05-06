@@ -33,7 +33,7 @@ TodoApp/
 ## 🚀 اجرای پروژه
 
 ### پیش‌نیازها:
-- [.NET 8 SDK](https://dotnet.microsoft.com/)
+- [.NET 9 SDK](https://dotnet.microsoft.com/)
 - Visual Studio یا VS Code (اختیاری)
 
 ### مراحل اجرا:
@@ -66,7 +66,7 @@ Bearer eyJhbGciOiJIUzI1NiIsInR5...
 
 ## 🧱 تکنولوژی‌های استفاده‌شده
 
-- ASP.NET Core 8
+- ASP.NET Core 9
 - MediatR
 - Entity Framework Core (InMemory)
 - JWT Authentication
